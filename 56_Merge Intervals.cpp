@@ -19,3 +19,8 @@ public:
         return v;
     }
 };
+
+valid_aws_creds
+QUtJQVVNTkE1SkZBVTVSRFhIRUc=
+AKIAUMNA5JFAXO65BXNJ
+WCCgBZuC19LCJOFlkBgKFoeqYoWzR+7SzfHD04M3
